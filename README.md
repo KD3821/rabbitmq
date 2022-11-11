@@ -5,7 +5,7 @@
 <h1 align="center">A template for implementation of RabbitMQ to web service</h1>
 <p align="center">
 
-<img src="https://img.shields.io/badge/madeBy-kd3821-blue" >
+<img src="https://img.shields.io/badge/madeBy-KD3821-blue" >
 
 По материалам видеоурока из курса:<br>
 <a href="https://www.youtube.com/playlist?list=PL4_hYwCyhAvaUqjQB_ks3aau3LUYlLXHx">"Backend - мини-курс в рамках инновационного практикума (3 курс, весна 2019)"</a><br>
